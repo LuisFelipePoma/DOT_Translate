@@ -60,7 +60,7 @@
 		```
    * Execute the script
 		```bash
-		./setup.sh
+		source setup.sh
 		```
 
    * Now we compile boths files.
