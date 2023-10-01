@@ -1,0 +1,4 @@
+digraph {
+    a -> d -> x[label="2"]
+    a -> z -> 0[label="1"]
+}
